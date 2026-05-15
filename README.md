@@ -97,7 +97,7 @@ To build the Angular project:
 
     ng build
 
-## Contributing
+## Contribution
 We welcome contributions! To get involved:
 
 - Fork the repository.
